@@ -26,6 +26,6 @@ ul, ol {
 	text-align: center;
 }
 
-.title {
-	font-size: large;
+#title {
+	font-size: 50px;
 }
