@@ -1,0 +1,27 @@
+html {
+	min-height: 100vh;
+	background: linear-gradient(100deg, rgb(208, 61, 227), rgb(227, 61, 122));
+}
+
+body {
+	display: grid;
+	color: white;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	height: auto;
+	border: 5px solid black;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.center {
+	text-align: center;
+}
