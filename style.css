@@ -25,3 +25,7 @@ ul, ol {
 .center {
 	text-align: center;
 }
+
+.title {
+	font-size: large;
+}
